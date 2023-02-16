@@ -1,0 +1,94 @@
+body {
+    background-color: rgb(250, 175, 212);
+    background-repeat: repeat;
+    
+}
+
+h1, h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 30px;
+}
+h5 {
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1 , h2 {
+    letter-spacing: 3px;
+}
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(221, 29, 61);
+    font-size: 17px;
+}
+
+h2{
+    color:rgb(221, 29, 61);
+}
+h4{
+    color:rgb(221, 29, 61);
+}
+img {
+    display: block;
+    width: 300px;
+   
+}
+
+body {
+    margin: 100px;
+   
+}
+
+a {
+    color:grey;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+img {
+    opacity: 0.5;
+}
+
+ol {
+    list-style-image: url(links/check.png);
+}
+
+ h2 {
+    border-bottom: 8px solid rgb(221, 29, 61);
+    
+}
+
+p::first-line {
+    color:white;
+}
+a:link {
+    color:hotpink;
+}
+a {
+    text-decoration: none;
+}
+a:visited {
+    color:teal;
+}
+a:hover {
+    text-decoration: underline white;
+}
+img {
+    width: 250px;
+    height: 250px;
+  }
+   
+h1, h2 {
+    text-transform: uppercase;
+}
