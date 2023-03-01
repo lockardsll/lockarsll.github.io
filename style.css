@@ -1,3 +1,4 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
 body {
     background-color: rgb(250, 175, 212);
     background-repeat: repeat;
@@ -69,21 +70,23 @@ ol {
 p::first-line {
     color:white;
 }
-a:link {
-    color:hotpink;
-}
 a {
     text-decoration: none;
 }
+a:link {
+    color:hotpink;
+}
+
 a:visited {
     color:teal;
 }
+
 a:hover {
     text-decoration: underline white;
 }
 img {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
   }
    
 h1, h2 {
